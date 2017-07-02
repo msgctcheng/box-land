@@ -1,0 +1,29 @@
+h1 {
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+    clear:both;
+}
+
+.wrapper1 {
+     border: 1px solid black;
+     width: 30%;
+     height:33%;
+     float:left;
+     
+}
+
+.wrapper2 {
+
+    border: 1px solid black;
+     width: 33%;
+     height:33%;
+     float:left;
+     
+}
+
+.wrapper3 {
+    border: 1px solid black;
+     width: 33%;
+     height:33%;
+     float:left;
+}
