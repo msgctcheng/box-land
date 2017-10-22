@@ -9,7 +9,7 @@
 
 * I also made the design responsive; having it shrink with the screen size.
 
-## Screen Shot:
+## Screen Shots:
 ![alt text](https://i.imgur.com/xUVREwL.png)
 ![alt text](https://i.imgur.com/gvquT0t.png)
 ![alt text](https://i.imgur.com/CQu5bS1.png)
