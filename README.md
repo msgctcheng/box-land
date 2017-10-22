@@ -5,7 +5,11 @@
 
 * Essentially it is several parent `<div>` tags with several child `<div>` tags; numbered based on how many other boxes are contained within the parent `<div>`.
 
-* My goal was to practice using Floats and other CSS to create evenly spaced boxes within each parent box.
+* My goal was to practice using `float, width, padding` and other style attributes to evenly space the child `<div>` tags within each parent `div`.
+
+* I also made the design responsive; having it shrink with the screen size.
 
 ## Screen Shot:
 ![alt text](https://i.imgur.com/xUVREwL.png)
+![alt text](https://i.imgur.com/gvquT0t.png)
+![alt text](https://i.imgur.com/CQu5bS1.png)
