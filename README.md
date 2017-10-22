@@ -1,5 +1,5 @@
 # Box Land - CSS Float Practice
-                                                       HTML5 | CSS3
+                                                    HTML5 | CSS3
 
 **Box Land** is a practice exercise I created for myself when I was learning about Floats in CSS.
 
